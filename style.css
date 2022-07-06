@@ -3,6 +3,7 @@ h1{
 }
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 .orange-color{
     color: orange;
@@ -12,8 +13,23 @@ section{
 }
 .half-width{
     width: 50%;
+    padding-left: 25px;
 
 }
 .half-width img{
-    width:50%;
+    width:75%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    border: 15px 40px;
+    padding: 8px 30px;
+    border-radius: 8px;
+}
+.top-banner{
+    background-image: url(images/bg-img.jpg);
+    background-repeat: no-repeat;
+    background-size: 18%;
+    margin: 0;
 }
