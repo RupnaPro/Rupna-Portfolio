@@ -47,3 +47,18 @@ body{
     background-position-x: right;
     background-repeat: no-repeat;
 }
+.experiences{
+    background-image: url(images/bg-img2.jpg);
+    background-repeat: no-repeat;
+}
+.experience-item{
+    box-shadow: 20px 20px 30px gray;
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;
+    border-radius: 8px;
+}
+footer{
+    text-align: center;
+}
